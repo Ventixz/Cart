@@ -1,0 +1,8 @@
+LAGAY MO SA producdb
+
+INSERT INTO Producttb (product_name, product_price, product_image, productDescription) VALUES 
+        		('Senior High',899,'./upload/product1.jpg', 'Senior High'),
+			('BSTM',799,'./upload/product2.jpg', 'College'),
+			('BSIT/BSCPE',699,'./upload/product3jpg', 'College'),
+			('BSHM',799,'./upload/product4jpg', 'College')                       
+
